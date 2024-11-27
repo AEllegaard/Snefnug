@@ -2,7 +2,7 @@ let symmetry = 6;
 let angle;
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(1080, 1080);
   angle = TWO_PI / symmetry;
   background(30); 
   frameRate(10);
